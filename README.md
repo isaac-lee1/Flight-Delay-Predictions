@@ -13,3 +13,5 @@ To predict delays on comercial flights
 * Exploratory Data Analysis
 * Data Preprocessing
 * Modeling
+
+#### The data has been trained with Decision Tree, Random Forest and XGBoost
