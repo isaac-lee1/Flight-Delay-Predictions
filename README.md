@@ -3,7 +3,7 @@ This project was done by Isaac Lee, Nakul Gupta & Pavel Makaveev
 ## Objective
 To predict delays on comercial flights
 
-## Dataset
+## Data Set
 * flights
 * passangers
 * fuel_consumption
